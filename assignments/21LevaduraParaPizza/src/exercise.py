@@ -5,7 +5,9 @@ def main():
     levadura = float ()
 
     levadura = (gramos* 50) / 1000
+
     levadura = round(levadura, 1)
+    
     print ("Necesitas estos gramos de levadura:",levadura)
 
 
